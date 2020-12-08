@@ -3,6 +3,6 @@ from .import views
 
 app_name = 'home'
 
-urlpatterns=[
+urlpatterns = [
     path('', views.HomeView.as_view(), name='home'),
 ]
