@@ -1,0 +1,22 @@
+body {
+    background: black url("images/like.jpg")no-repeat;
+    background-position: right top;
+}
+
+input[type="submit"] {
+    margin: 20px 0 auto;
+    background: beige;
+    color: lightcoral;
+}
+
+h1 {
+    color: lightcoral;
+}
+
+li a, label, li {
+    color: lightpink;
+}
+
+a{
+    color: beige;
+}
