@@ -1,16 +1,14 @@
 body {
-    background: white url("images/background.png") no-repeat;
+    background: #D9E5FF url("images/whale.jpg") no-repeat;
     background-position: center;
-    background-size: 10%;
+    background-size: 40%;
     height: 500px;
     border-top: 10px solid #ccc;
 }
 
-title {
-    color: #c88;
+h4 {
+    font-size: 20pt;
+    color: white;
     font-weight: bold;
-}
-
-li a {
-    color: green;
+    text-shadow: 2px 2px 2px #A3AFC9;
 }

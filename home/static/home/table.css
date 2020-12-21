@@ -1,0 +1,10 @@
+th {
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #A3AFC9;
+}
+
+td, td a {
+    color: gray;
+    font-weight: bold;
+}

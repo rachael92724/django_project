@@ -1,0 +1,36 @@
+body {
+    background: #d9e5ff url("images/background.png") no-repeat;
+    background-position: center;
+    background-size: 20%;
+    height: 500px;
+    border-top: 10px solid #cccccc;
+    font-size: 12pt;
+}
+
+h1 {
+    font-size: 24pt;
+}
+
+.btn {
+    font-size: 10pt;
+}
+
+title {
+    color: #c88;
+    font-weight: bold;
+}
+
+li a {
+    color: green;
+    font-size: 10pt;
+}
+
+.navbar-brand {
+    font-family: 'Lobster';
+    font-size: 24pt;
+}
+
+.nav-link {
+    font-size: 12pt;
+    font-weight: bold;
+}
